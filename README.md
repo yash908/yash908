@@ -1,61 +1,61 @@
-# 👋 **Hello, I'm Yash!**  
-Welcome to my GitHub! I’m a passionate **Web Developer** on a journey to create meaningful and efficient web applications.  
+# 👋 **Hi, I'm Yash!**  
+A passionate **Full Stack Developer** working on exciting projects and always eager to explore new technologies!
 
-✨ **Let’s Build Something Great Together!**
+![Profile Views](https://komarev.com/ghpvc/?username=yash908&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash908" alt="Yash Sarda" /></a> </p>
 
+
+---
 
 ## 🚀 **About Me**
-- 👀 **I’m interested in**: Web Development, Backend Technologies, and solving real-world problems with code.
-- 🌱 **Currently learning**: **Java** to level up my backend development skills.
-- 💞️ **Looking to collaborate**: On **Web Development** projects and open-source contributions.
-- 📬 **How to reach me**: [Yash19091999@gmail.com](mailto:Yash19091999@gmail.com)
-
----
-
-## 🛠 **Tech Stack & Tools**
-- **Frontend**: HTML5, CSS3, JavaScript, React, Vue.js
-- **Backend**: Java, PHP, Yii2, Node.js
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Dev Tools**: Git, Docker, VS Code, Postman
-- **Cloud/Hosting**: AWS, Heroku, Vercel
-
----
-
-## 📈 **GitHub Stats**
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash908&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+- 🔭 **Currently working on**: **AI Agent for ID Proof Scanning** (Extracting Name, DOB, and ID Type from scanned ID documents)
+- 🌱 **Learning**: **Java**, **Machine Learning** techniques for image recognition and processing
+- 💬 **Ask me about**: **PHP, Yii2, Java, Web Development**, and **AI tools**
+- 👨‍💻 **Check out my projects**: [Visit my Portfolio](#)  
+- 📫 **Reach me at**: [Yash19091999@gmail.com](mailto:Yash19091999@gmail.com)
 
 ---
 
 ## 🌟 **Featured Projects**
-Here are a few of my personal or collaborative projects that showcase my skills:
+Here are a few of my ongoing and past projects:
 
-- **[Agent AI for ID Proof Scanning](#)**:  
-  Currently working on an **AI-powered tool** that scans and enhances ID proofs, extracting essential data like name, DOB, and ID type. This project is being developed using image enhancement techniques and OCR to automate the extraction process.
+- **[AI Agent for ID Proof Scanning](#)**:  
+  I’m building an **AI-powered tool** that scans and enhances **ID proofs**, extracting critical information such as **Name**, **DOB**, and **ID Type**. This project leverages **OCR** technology to automate document analysis and data extraction.
 
-- **[Project 2: Dynamic Web App](#)**  
-  A dynamic web application that adapts to user input, providing an intuitive UI and optimized backend for seamless user experience.
+- **[E-commerce Backend API](#)**:  
+  A fully functional backend system for managing user accounts, product listings, and orders, developed using **PHP** and **Yii2** framework.
 
-- **[Project 3: Real-Time Chat Application](#)**  
-  A real-time chat application built using Node.js and Socket.io, offering direct messaging capabilities in a modern web interface.
-
-Feel free to explore my repositories and open issues if you'd like to collaborate or contribute!
+- **[Real-Time Chat App](#)**:  
+  A real-time chat application using **Node.js** and **Socket.io**, where users can send instant messages and manage conversations in real-time.
 
 ---
 
-## 💬 **Let’s Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/yash908)
-- 🌐 [Portfolio](https://www.yashportfolio.com) (Coming Soon!)
+## 💬 **Connect with me**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yash908)  
+- 🐦 [Twitter](https://twitter.com/yash908) (If applicable)  
+- 🌐 [Portfolio](#) (Coming Soon!)
 
 ---
 
-## 🔄 **Fun Facts**
-- 💻 I love building web applications that make an impact.
-- 🎯 I'm always up for solving coding challenges (bring them on!).
-- 🔥 I’m passionate about learning new technologies and improving my skills daily.
+## 🛠 **Technologies & Tools**  
+Here are the technologies I use and enjoy working with:
+
+- **Frontend**: HTML5, CSS3, JavaScript, React  
+- **Backend**: PHP, Yii2, Node.js, Java  
+- **Databases**: MySQL, MongoDB  
+- **Cloud/Hosting**: AWS, Heroku, Vercel  
+- **Tools**: Git, Docker, Postman, VS Code
 
 ---
 
-### Thank you for visiting my profile! 😊 Let’s create something awesome together! 🚀
+## 📈 **GitHub Stats**
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yash908&show_icons=true&locale=en&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash908&show_icons=true&locale=en)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash908)
 
 ---
-`
+
+## 🚀 **Thank you for visiting my profile!**  
+Let’s connect, collaborate, and build something amazing together! 😊
