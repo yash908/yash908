@@ -4,6 +4,14 @@ A passionate **Full Stack Developer** working on exciting projects and always ea
 ![Profile Views](https://komarev.com/ghpvc/?username=yash908&label=Profile%20views&color=0e75b6&style=flat)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash908" alt="Yash Sarda" /></a> </p>
 
+![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![REST API](https://img.shields.io/badge/-REST_API-333333?style=flat&logo=swagger)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
+
 
 ---
 
@@ -48,14 +56,16 @@ Here are the technologies I use and enjoy working with:
 
 ---
 
+
 ## 📈 **GitHub Stats**
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yash908&show_icons=true&locale=en&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash908&show_icons=true&locale=en)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=yash908&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash908&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" width="48%" height="180" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash908)
 
----
+
 
 ## 🚀 **Thank you for visiting my profile!**  
 Let’s connect, collaborate, and build something amazing together! 😊
