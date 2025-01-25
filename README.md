@@ -2,7 +2,6 @@
 A passionate **Full Stack Developer** working on exciting projects and always eager to explore new technologies!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yash908&label=Profile%20views&color=0e75b6&style=flat)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash908" alt="Yash Sarda" /></a> </p>
 
 ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
@@ -58,13 +57,16 @@ Here are the technologies I use and enjoy working with:
 
 
 ## 📈 **GitHub Stats**
-
-<div>
+<div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=yash908&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="48%" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash908&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages" width="48%" height="180" />
 </div>
-
-
+</br>
+<p style="margin-left: '24px';">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yash908" alt="Yash Sarda" />
+  </a>
+</p>
 
 
 ## 🚀 **Thank you for visiting my profile!**  
