@@ -18,7 +18,7 @@ A passionate **Full Stack Developer** working on exciting projects and always ea
 - 🔭 **Currently working on**: **AI Agent for ID Proof Scanning** (Extracting Name, DOB, and ID Type from scanned ID documents)
 - 🌱 **Learning**: **Java**, **Machine Learning** techniques for image recognition and processing
 - 💬 **Ask me about**: **PHP, Yii2, Java, Web Development**, and **AI tools**
-- 👨‍💻 **Check out my projects**: [Visit my Portfolio](#)  
+- 👨‍💻 **Check out my projects**: [Visit my Portfolio](https://yash-portfolio-zwpl.onrender.com/)  
 - 📫 **Reach me at**: [Yash19091999@gmail.com](mailto:Yash19091999@gmail.com)
 
 ---
