@@ -39,8 +39,7 @@ Here are a few of my ongoing and past projects:
 
 ## 💬 **Connect with me**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/yash908)  
-- 🐦 [Twitter](https://twitter.com/yash908) (If applicable)  
-- 🌐 [Portfolio](#) (Coming Soon!)
+- 🌐 [Portfolio](https://yash-portfolio-zwpl.onrender.com/)
 
 ---
 
